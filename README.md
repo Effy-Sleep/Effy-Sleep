@@ -1,6 +1,4 @@
-### 🩵 Effy_Sleep
-
-**`Digital Architect (デジタル建築家)`**
+### Effy_Sleep
 
 ---
 
